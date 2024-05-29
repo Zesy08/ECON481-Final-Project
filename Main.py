@@ -13,6 +13,17 @@ import seaborn as sns
 import itertools
 
 
+# In[50]:
+
+
+def github() -> str:
+    """
+    Returns Github link.
+    """
+    
+    return "https://github.com/Zesy08/ECON481-Final-Project"
+
+
 # In[32]:
 
 
